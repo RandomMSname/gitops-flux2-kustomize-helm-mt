@@ -3,3 +3,10 @@ kind: Kustomization
 resources:
   - release.yaml
   - namespace.yaml
+
+
+
+
+
+
+#dupa tralalalalal
